@@ -14,12 +14,6 @@ class Solution:
                 odd = 0
         newnums.append(odd)
 
-        # for x in newnums:
-        #     print(x, end=" ")
-
-        if (len(newnums)//2<k):
-            return 0
-
         for x in range(len(newnums))[1::2]:
             if (x+2*(k-1)<len(newnums)) :
                 ans += (newnums[x-1]+1)*(newnums[x+2*(k-1)+1]+1)
