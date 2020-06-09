@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="1248-count-number-of-nice-subarrays">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/16_06-smallest-difference-lcci.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="784-letter-case-permutation.py">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/929-unique-email-addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +54,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.16_06-smallest-difference-lcci">
-    <configuration name="0898-bitwise-ors-of-subarrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.929-unique-email-addresses">
+    <configuration name="784-letter-case-permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/0898-bitwise-ors-of-subarrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/784-letter-case-permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1248-count-number-of-nice-subarrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="929-unique-email-addresses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/1248-count-number-of-nice-subarrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/929-unique-email-addresses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1400-construct-k-palindrome-strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="990-satisfiability-of-equality-equations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/1400-construct-k-palindrome-strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/990-satisfiability-of-equality-equations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16_06-smallest-difference-lcci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +130,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/16_06-smallest-difference-lcci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,10 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16_06-smallest-difference-lcci" />
-        <item itemvalue="Python.1248-count-number-of-nice-subarrays" />
-        <item itemvalue="Python.1400-construct-k-palindrome-strings" />
-        <item itemvalue="Python.0898-bitwise-ors-of-subarrays" />
+        <item itemvalue="Python.929-unique-email-addresses" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof" />
+        <item itemvalue="Python.784-letter-case-permutation" />
+        <item itemvalue="Python.990-satisfiability-of-equality-equations" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +195,63 @@
       <option name="project" value="LOCAL" />
       <updated>1591439345750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16_06-smallest-difference-lcci">
+      <created>1591446989760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591446989760</updated>
+    </task>
+    <task id="LOCAL-00004" summary="55-jump-game">
+      <created>1591495052583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591495052583</updated>
+    </task>
+    <task id="LOCAL-00005" summary="55-jump-game">
+      <created>1591496310153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591496310153</updated>
+    </task>
+    <task id="LOCAL-00006" summary="LCP_06-na-ying-bi.py">
+      <created>1591496741821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591496741821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="990-satisfiability-of-equality-equations.py">
+      <created>1591581752953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591581752953</updated>
+    </task>
+    <task id="LOCAL-00008" summary="784-letter-case-permutation.py">
+      <created>1591587091345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591587091345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py">
+      <created>1591660803608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591660803608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="MS46 by DP">
+      <created>1591665733624</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591665733624</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,37 +268,48 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1248-count-number-of-nice-subarrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="1248-count-number-of-nice-subarrays" />
+    <MESSAGE value="16_06-smallest-difference-lcci" />
+    <MESSAGE value="55-jump-game" />
+    <MESSAGE value="LCP_06-na-ying-bi.py" />
+    <MESSAGE value="990-satisfiability-of-equality-equations.py" />
+    <MESSAGE value="784-letter-case-permutation.py" />
+    <MESSAGE value="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" />
+    <MESSAGE value="MS46 by DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="MS46 by DP" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1591446904841">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591659452595">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591446904841" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1591659452595" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1591667427463">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591667427463" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1591446904840">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1591667427462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591446904840" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591667427462" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1591446904840">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1591667427462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591446904840" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591667427462" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1591446904841">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1591667427463">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591446904841" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591667427463" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1591100081991">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591100081991" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1591426615651">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1591665741643">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1591426615651" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1591665741643" />
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591067352225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
