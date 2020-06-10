@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="929-unique-email-addresses.py">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/9-palindrome-number.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="9-palindrome-number.py">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/22-generate-parentheses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +53,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.9-palindrome-number">
-    <configuration name="784-letter-case-permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.22-generate-parentheses">
+    <configuration name="22-generate-parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/784-letter-case-permutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/22-generate-parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.22-generate-parentheses" />
         <item itemvalue="Python.9-palindrome-number" />
         <item itemvalue="Python.929-unique-email-addresses" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof" />
-        <item itemvalue="Python.784-letter-case-permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591667672827</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="9-palindrome-number.py">
+      <created>1591758095112</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591758095112</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +289,8 @@
     <MESSAGE value="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" />
     <MESSAGE value="MS46 by DP" />
     <MESSAGE value="929-unique-email-addresses.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="929-unique-email-addresses.py" />
+    <MESSAGE value="9-palindrome-number.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="9-palindrome-number.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591659452595">
@@ -313,10 +321,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591100081991" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1591667676467">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1591758394195">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1591667676467" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1591758394195" />
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591067352225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
