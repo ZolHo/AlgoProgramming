@@ -4,6 +4,5 @@
 # @FileName: test.py
 
 
-str = "12@3"
-
-print (str.split("@"))
+str = [1,2,3,4,5,6,7,]
+print(str[3:1])
