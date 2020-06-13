@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="爬楼梯">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/985-sum-of-even-numbers-after-queries.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="查询后的偶数和">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/2-add-two-numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +142,9 @@
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -309,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592016003802</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="查询后的偶数和">
+      <created>1592016290799</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592016290799</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,32 +352,33 @@
     <MESSAGE value="1292-yshxydyyzdzdbc.py" />
     <MESSAGE value="交换和" />
     <MESSAGE value="爬楼梯" />
-    <option name="LAST_COMMIT_MESSAGE" value="爬楼梯" />
+    <MESSAGE value="查询后的偶数和" />
+    <option name="LAST_COMMIT_MESSAGE" value="查询后的偶数和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591659452595">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1591659452595" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592016245455">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592017883633">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592016245455" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592016245454">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592017883633">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592016245454" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592016245453">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592017883632">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592016245453" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592017883632" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592016245455">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592017883633">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592016245455" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1591100081991">
       <screen x="0" y="0" width="1440" height="900" />
@@ -376,10 +388,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592015992565" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592013345976">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592016296924">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592013345976" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592016296924" />
     <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592014520726">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
