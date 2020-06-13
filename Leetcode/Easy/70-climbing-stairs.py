@@ -14,4 +14,4 @@ class Solution:
         return dp[n-1]
 
 solu = Solution()
-print(solu.climbStairs(n=3))
+print(solu.climbStairs(n=5))
