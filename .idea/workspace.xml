@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="最佳观光组合">
-      <change afterPath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="错误解法存档">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592362008032</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="错误解法存档">
+      <created>1592367812024</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1592367812024</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +426,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="55-jump-game" />
     <MESSAGE value="LCP_06-na-ying-bi.py" />
     <MESSAGE value="990-satisfiability-of-equality-equations.py" />
     <MESSAGE value="784-letter-case-permutation.py" />
@@ -443,33 +450,34 @@
     <MESSAGE value="树上倍增" />
     <MESSAGE value="二叉树手动序列化" />
     <MESSAGE value="最佳观光组合" />
-    <option name="LAST_COMMIT_MESSAGE" value="最佳观光组合" />
+    <MESSAGE value="错误解法存档" />
+    <option name="LAST_COMMIT_MESSAGE" value="错误解法存档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592139551729">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592139551729" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592367061151">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592380705704">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592367061151" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592367061149">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592380705704" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592380105093" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592380705703">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592367061149" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592367061149">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592380705703" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592380705701">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592367061149" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592367061150">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592380705701" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592380105091" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592380705704">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592367061150" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592380705704" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
     <state x="243" y="112" key="SettingsEditor" timestamp="1592219205542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

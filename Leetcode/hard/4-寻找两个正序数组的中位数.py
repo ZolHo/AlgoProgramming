@@ -7,26 +7,28 @@ from typing import List
 from bisect import bisect_left
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        lo, hi = min(nums2[0], nums1[0]), max(nums1[-1], nums2[-1])
         lenth = len(nums2) + len(nums1)
         flag = lenth % 2 == 0
+
+        def findkth(n1, n2, k) :
+            print(n1,n2,k)
+            if (len(n1) == 0): return n2[k - 1]
+            if (len(n2) == 0): return n1[k - 1]
+            if (k==1) : return min(n1[0], n2[0])
+            if (len(n1) < len(n2)) : n1, n2 = n2, n1
+            t2 = min (k//2, len(n2))
+            t1 = k - t2
+            print(t1,t2)
+            if (n1[t1-1]>n2[t2-1]) : return findkth(n1, n2[t2:], k-t2)
+            else: return findkth(n1[t1:],n2, k-t1)
+
         if (flag):
-            center = lenth // 2 - 1
+            center = lenth // 2
+            return (findkth(nums2, nums1, center) + findkth(nums2,nums1, center+1))/2
         else:
-            center = (lenth - 1) // 2
-        while (hi >= lo):
-            mid = (hi + lo) // 2
-            site1, site2 = bisect_left(nums1, mid), bisect_left(nums2, mid)
-            print(lo, hi, mid,site1,site2,center)
-            if (site1 + site2 == center):
-                if (site1 >= len(nums1)): return nums2[site2]
-                if (site2 >= len(nums2)): return nums2[site2]
-                return (nums1[site1] + nums2[site2]) / 2 if (flag) else min(nums1[site1], nums2[site2])
-            if (site1 + site2 > center):
-                hi = mid
-            else:
-                lo = mid + 1
+            center = (lenth + 1) // 2
+            return findkth(nums1, nums2,center)
 
 solu = Solution()
-print(solu.findMedianSortedArrays([1,2,3,3]
-,[3,4,5,6,8,40]))
+print(solu.findMedianSortedArrays([1,2]
+,[3,4]))

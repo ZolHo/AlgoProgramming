@@ -6,4 +6,7 @@
 from array import array
 a = array('u')
 # a.append(1+2)
-print(a)
+for i in range(10):
+    p = i
+
+print(p)
