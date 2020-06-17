@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="查询后的偶数和">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/2-add-two-numbers.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="二叉树手动序列化">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/1014-最佳观光组合.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +54,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.985-sum-of-even-numbers-after-queries">
-    <configuration name="1292-yshxydyyzdzdbc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="1300-转变数组后最接近目标值的数组和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/1292-yshxydyyzdzdbc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/1300-转变数组后最接近目标值的数组和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="70-climbing-stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1483-树节点的第K个祖先" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-193" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/70-climbing-stairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-193/1483-树节点的第K个祖先.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,28 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="985-sum-of-even-numbers-after-queries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgoProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/985-sum-of-even-numbers-after-queries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MS16_21-sum-swap-lcci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3-无重复字符的最长子串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +114,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/MS16_21-sum-swap-lcci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/3-无重复字符的最长子串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5438-制作m束花所需的最少天数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-193" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-193/5438-制作m束花所需的最少天数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,20 +158,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.1300-转变数组后最接近目标值的数组和" />
+      <item itemvalue="Python.3-无重复字符的最长子串" />
+      <item itemvalue="Python.5438-制作m束花所需的最少天数" />
+      <item itemvalue="Python.1483-树节点的第K个祖先" />
+      <item itemvalue="Python.test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.985-sum-of-even-numbers-after-queries" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.70-climbing-stairs" />
-        <item itemvalue="Python.MS16_21-sum-swap-lcci" />
-        <item itemvalue="Python.1292-yshxydyyzdzdbc" />
+        <item itemvalue="Python.1483-树节点的第K个祖先" />
+        <item itemvalue="Python.5438-制作m束花所需的最少天数" />
+        <item itemvalue="Python.3-无重复字符的最长子串" />
+        <item itemvalue="Python.1300-转变数组后最接近目标值的数组和" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +333,70 @@
       <option name="project" value="LOCAL" />
       <updated>1592016290799</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="两数相加">
+      <created>1592062510976</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592062510977</updated>
+    </task>
+    <task id="LOCAL-00022" summary="一维数组的动态和">
+      <created>1592109844898</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592109844899</updated>
+    </task>
+    <task id="LOCAL-00023" summary="不同整数的最少数目">
+      <created>1592127330454</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592127330454</updated>
+    </task>
+    <task id="LOCAL-00024" summary="14-最长公共前缀和.py">
+      <created>1592194115193</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592194115193</updated>
+    </task>
+    <task id="LOCAL-00025" summary="二分">
+      <created>1592210678506</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1592210678506</updated>
+    </task>
+    <task id="LOCAL-00026" summary="dp，双指针">
+      <created>1592217929588</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1592217929588</updated>
+    </task>
+    <task id="LOCAL-00027" summary="二分法">
+      <created>1592219533938</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1592219533938</updated>
+    </task>
+    <task id="LOCAL-00028" summary="树上倍增">
+      <created>1592240575068</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592240575068</updated>
+    </task>
+    <task id="LOCAL-00029" summary="二叉树手动序列化">
+      <created>1592286008354</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1592286008354</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +412,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1248-count-number-of-nice-subarrays" />
     <MESSAGE value="16_06-smallest-difference-lcci" />
     <MESSAGE value="55-jump-game" />
     <MESSAGE value="LCP_06-na-ying-bi.py" />
@@ -353,56 +428,65 @@
     <MESSAGE value="交换和" />
     <MESSAGE value="爬楼梯" />
     <MESSAGE value="查询后的偶数和" />
-    <option name="LAST_COMMIT_MESSAGE" value="查询后的偶数和" />
+    <MESSAGE value="两数相加" />
+    <MESSAGE value="一维数组的动态和" />
+    <MESSAGE value="不同整数的最少数目" />
+    <MESSAGE value="14-最长公共前缀和.py" />
+    <MESSAGE value="二分" />
+    <MESSAGE value="dp，双指针" />
+    <MESSAGE value="二分法" />
+    <MESSAGE value="树上倍增" />
+    <MESSAGE value="二叉树手动序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树手动序列化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591659452595">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592139551729">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1591659452595" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592017883633">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592139551729" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592319576538">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592319576538" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592017883633">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592319576537">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592319576537" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592017883632">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592319576536">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592017883632" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592319576536" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591101578583" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592017883633">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592319576537">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592017883633" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592319576537" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591101578584" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1591100081991">
+    <state x="243" y="112" key="SettingsEditor" timestamp="1592219205542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591100081991" />
+    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592219205542" />
     <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1592015992565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592015992565" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592016296924">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592286012189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592016296924" />
-    <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592014520726">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592286012189" />
+    <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592229600680">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="39" width="604" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592014520726" />
+    <state x="418" y="39" width="604" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592229600680" />
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591067352225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1591067352225" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591104099554">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592236963014">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591104099554" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592236963014" />
   </component>
 </project>

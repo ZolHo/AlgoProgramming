@@ -3,6 +3,7 @@
 # @Author  : ZolHo
 # @FileName: test.py
 
-
-a , b = 1,1
-print(a,b)
+from array import array
+a = array('u')
+# a.append(1+2)
+print(a)
