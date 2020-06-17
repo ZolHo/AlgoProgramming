@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="错误解法存档">
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="二分查找">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/7-整数反转.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -410,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592367812024</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="二分查找">
+      <created>1592380851343</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1592380851344</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,7 +432,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LCP_06-na-ying-bi.py" />
     <MESSAGE value="990-satisfiability-of-equality-equations.py" />
     <MESSAGE value="784-letter-case-permutation.py" />
     <MESSAGE value="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" />
@@ -451,7 +456,8 @@
     <MESSAGE value="二叉树手动序列化" />
     <MESSAGE value="最佳观光组合" />
     <MESSAGE value="错误解法存档" />
-    <option name="LAST_COMMIT_MESSAGE" value="错误解法存档" />
+    <MESSAGE value="二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="二分查找" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592139551729">
@@ -486,10 +492,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592015992565" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592362013513">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592380859615">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592362013513" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592380859615" />
     <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592229600680">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
