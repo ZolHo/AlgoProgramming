@@ -4,9 +4,6 @@
 # @FileName: test.py
 
 from array import array
-a = array('u')
-# a.append(1+2)
-for i in range(10):
-    p = i
-
-print(p)
+a = "1-401--349---90--88"
+a = a.split('-')
+print(a)
