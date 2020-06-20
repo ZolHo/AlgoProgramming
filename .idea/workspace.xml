@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="字符串构造二叉树">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/125-验证回文串.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="回文串">
+      <change afterPath="$PROJECT_DIR$/Leetcode/hard/10-正则表达式匹配.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,28 @@
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1028-从先序遍历还原二叉树">
+  <component name="RunManager" selected="Python.10-正则表达式匹配">
+    <configuration name="10-正则表达式匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/hard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/hard/10-正则表达式匹配.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1028-从先序遍历还原二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,27 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5438-制作m束花所需的最少天数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgoProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-193" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-193/5438-制作m束花所需的最少天数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,17 +168,17 @@
     <list>
       <item itemvalue="Python.1483-树节点的第K个祖先" />
       <item itemvalue="Python.4-寻找两个正序数组的中位数" />
-      <item itemvalue="Python.5438-制作m束花所需的最少天数" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.1028-从先序遍历还原二叉树" />
+      <item itemvalue="Python.10-正则表达式匹配" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1028-从先序遍历还原二叉树" />
+        <item itemvalue="Python.10-正则表达式匹配" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.1028-从先序遍历还原二叉树" />
         <item itemvalue="Python.4-寻找两个正序数组的中位数" />
         <item itemvalue="Python.1483-树节点的第K个祖先" />
-        <item itemvalue="Python.5438-制作m束花所需的最少天数" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592479868271</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="回文串">
+      <created>1592534106926</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1592534106926</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,7 +454,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" />
     <MESSAGE value="MS46 by DP" />
     <MESSAGE value="929-unique-email-addresses.py" />
     <MESSAGE value="9-palindrome-number.py" />
@@ -471,45 +478,46 @@
     <MESSAGE value="二分查找" />
     <MESSAGE value="整数反转" />
     <MESSAGE value="字符串构造二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串构造二叉树" />
+    <MESSAGE value="回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="回文串" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592139551729">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592139551729" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592480079967">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592625545784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592480079967" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592625545784" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592380105093" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592480079966">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592625545782">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592480079966" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592625545782" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592480079966">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592625545781">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592480079966" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592625545781" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592380105091" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592480079966">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592625545783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592480079966" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592625545783" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
-    <state x="243" y="112" key="SettingsEditor" timestamp="1592219205542">
+    <state x="243" y="112" key="SettingsEditor" timestamp="1592618576155">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592219205542" />
+    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592618576155" />
     <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1592015992565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592015992565" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592479872131">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592548676898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592479872131" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592548676898" />
     <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592229600680">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -518,9 +526,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1591067352225" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592236963014">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592623232921">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592236963014" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592623232921" />
   </component>
 </project>

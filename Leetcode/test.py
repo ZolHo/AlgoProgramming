@@ -5,5 +5,5 @@
 
 from array import array
 a = "1-401--349---90--88"
-a = a.split('-')
-print(a)
+i = 0
+print(a.count('1'))
