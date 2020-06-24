@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="正则表达式">
-      <change afterPath="$PROJECT_DIR$/Leetcode/hard/124-二叉树中的最大路径和.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="67">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,48 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="21" end1="23" start2="21" end2="26" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="24" end1="24" start2="27" end2="28" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="40" end1="40" start2="44" end2="86" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="57" end1="57" start2="103" end2="104" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="60" end1="61" start2="107" end2="108" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="103" end1="104" start2="150" end2="151" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="111" end1="112" start2="158" end2="159" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="115" end1="116" start2="162" end2="163" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="124" end1="125" start2="171" end2="172" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="132" end1="133" start2="179" end2="180" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="136" end1="137" start2="183" end2="184" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="145" end1="146" start2="192" end2="193" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="152" end1="153" start2="199" end2="200" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="154" end1="155" start2="201" end2="202" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="157" end1="158" start2="204" end2="205" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="167" end1="168" start2="214" end2="214" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="172" end1="172" start2="218" end2="219" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="175" end1="175" start2="222" end2="224" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="176" end1="177" start2="225" end2="225" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="179" end1="180" start2="227" end2="227" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="189" end1="189" start2="236" end2="237" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="446" end1="447" start2="494" end2="537" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="462" end1="468" start2="552" end2="552" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="487" end1="488" start2="571" end2="578" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="490" end1="491" start2="580" end2="585" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="493" end1="495" start2="587" end2="590" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="497" end1="500" start2="592" end2="595" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="502" end1="505" start2="597" end2="600" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="507" end1="510" start2="602" end2="605" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="512" end1="515" start2="607" end2="609" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="517" end1="519" start2="611" end2="613" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="521" end1="523" start2="615" end2="617" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="525" end1="527" start2="619" end2="621" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="529" end1="530" start2="623" end2="624" changelist="b1ae52ee-ea4e-4048-83ad-905b90294255" />
+        <range start1="534" end1="535" start2="628" end2="629" changelist="86577e4c-ee3f-464d-b3d8-174e2eb9f616" />
+        <range start1="537" end1="538" start2="631" end2="632" changelist="86577e4c-ee3f-464d-b3d8-174e2eb9f616" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1ckKaDQVRKhXytdeh6hxH53oq0g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,10 +101,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Leetcode" />
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10-正则表达式匹配">
+  <component name="RunManager" selected="Python.test2">
     <configuration name="10-正则表达式匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,27 +140,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/hard/1028-从先序遍历还原二叉树.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1483-树节点的第K个祖先" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgoProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-193" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-193/1483-树节点的第K个祖先.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,20 +190,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1483-树节点的第K个祖先" />
       <item itemvalue="Python.4-寻找两个正序数组的中位数" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.1028-从先序遍历还原二叉树" />
       <item itemvalue="Python.10-正则表达式匹配" />
+      <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10-正则表达式匹配" />
+        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.10-正则表达式匹配" />
         <item itemvalue="Python.1028-从先序遍历还原二叉树" />
         <item itemvalue="Python.4-寻找两个正序数组的中位数" />
-        <item itemvalue="Python.1483-树节点的第K个祖先" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +234,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="" />
+      <changelist id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="" />
       <created>1591067212998</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -444,7 +492,49 @@
       <option name="project" value="LOCAL" />
       <updated>1592626805739</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="递归">
+      <created>1592705298516</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1592705298516</updated>
+    </task>
+    <task id="LOCAL-00038" summary="数组异或操作">
+      <created>1592713833594</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1592713833594</updated>
+    </task>
+    <task id="LOCAL-00039" summary="字典">
+      <created>1592714012169</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592714012169</updated>
+    </task>
+    <task id="LOCAL-00040" summary="避免洪水泛滥">
+      <created>1592714158558</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592714158558</updated>
+    </task>
+    <task id="LOCAL-00041" summary="字符串模式匹配">
+      <created>1592797873099</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1592797873099</updated>
+    </task>
+    <task id="LOCAL-00042" summary="67">
+      <created>1592925655676</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1592925655676</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,12 +550,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="929-unique-email-addresses.py" />
-    <MESSAGE value="9-palindrome-number.py" />
-    <MESSAGE value="22-generate-parentheses.py" />
-    <MESSAGE value="739-daily-temperatures.py" />
-    <MESSAGE value="15-3sum.py" />
-    <MESSAGE value="1292-yshxydyyzdzdbc.py" />
     <MESSAGE value="交换和" />
     <MESSAGE value="爬楼梯" />
     <MESSAGE value="查询后的偶数和" />
@@ -485,49 +569,59 @@
     <MESSAGE value="字符串构造二叉树" />
     <MESSAGE value="回文串" />
     <MESSAGE value="正则表达式" />
-    <option name="LAST_COMMIT_MESSAGE" value="正则表达式" />
+    <MESSAGE value="递归" />
+    <MESSAGE value="数组异或操作" />
+    <MESSAGE value="字典" />
+    <MESSAGE value="避免洪水泛滥" />
+    <MESSAGE value="字符串模式匹配" />
+    <MESSAGE value="67" />
+    <option name="LAST_COMMIT_MESSAGE" value="67" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592139551729">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592925686509">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592139551729" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592626816760">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592925686509" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592810464262">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592626816760" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592380105093" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592626816757">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592810464262" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592708284923" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592810464260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592626816757" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592626816756">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592810464260" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592708284922" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592810464259">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592626816756" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592380105091" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592626816759">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592810464259" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592708284921" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592810464260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592626816759" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592380105092" />
-    <state x="243" y="112" key="SettingsEditor" timestamp="1592618576155">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592810464260" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592708284922" />
+    <state x="243" y="112" key="SettingsEditor" timestamp="1592713975459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592618576155" />
-    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1592015992565">
+    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592713975459" />
+    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1592713795657">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592015992565" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592626808631">
+    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592713795657" />
+    <state x="598" y="371" key="VCS.EditChangelistDialog" timestamp="1592713750209">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592626808631" />
-    <state x="418" y="39" width="604" height="822" key="find.popup" timestamp="1592229600680">
+    <state x="598" y="371" key="VCS.EditChangelistDialog/0.0.1440.900@0.0.1440.900" timestamp="1592713750209" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592925659222">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="39" width="604" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592229600680" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592925659222" />
+    <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1592962639311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="39" width="612" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592962639311" />
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591067352225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
