@@ -1,6 +1,5 @@
 a = 'dodod'
-print(a.count('d'))
-from bisect import bisect
-a = bisect([1,2,3,6,7])
-for i in a:
-    print(a)
+b = ['dfs','222', 'sb']
+s = 'sb'
+b = set(b)
+print(s in b)
