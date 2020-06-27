@@ -13,6 +13,7 @@ class Solution:
                 tb[i] = 1
         for i in range(1,len(nums)+1):
             if(tb[i]==0) : return i
+
         return i+1
 
 
