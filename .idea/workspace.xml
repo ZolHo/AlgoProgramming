@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="双指针">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/139-单词拆分.py" afterDir="false" />
-    </list>
-    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/hard/41-缺失的第一个正数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
     </list>
+    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
