@@ -3,6 +3,7 @@
 # @Author  : ZolHo.github.io
 # @FileName: 4-寻找两个正序数组的中位数.py
 
+'/Applications/IntelliJ IDEA.app/Contents/bin/JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar'
 from typing import List
 from bisect import bisect_left
 class Solution:

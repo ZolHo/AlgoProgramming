@@ -15,4 +15,4 @@ class Solution:
         return dp[n]
 
 solu = Solution()
-print(solu)
+print(solu.numTrees(5))
