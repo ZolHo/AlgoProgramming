@@ -4,10 +4,10 @@
 # @FileName: 树状数组.py
 
 class bitTree():
-    def __init__(self, arr, n) :
-        self.n = n
-        self.a = [0 for i in range(n+1)]
-        for i in range(n):
+    def __init__(self, arr) :
+        self.n = len(arr)
+        self.a = [0 for i in range(self.n+1)]
+        for i in range(self.n):
             self.update(i, arr[i])
 
     def lowbit(self, i) :
