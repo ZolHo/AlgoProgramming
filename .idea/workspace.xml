@@ -19,15 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="双指针">
-      <change afterPath="$PROJECT_DIR$/Leetcode/hard/41-缺失的第一个正数.py" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="记忆化搜索">
+      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-200/5476. 找出数组游戏的赢家.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="" />
+    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AlgoProgramming$95___II.coverage" NAME="95. 不同的二叉搜索树 II Coverage Results" MODIFIED="1595303253679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Medium" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$96__.coverage" NAME="96. 不同的二叉搜索树 Coverage Results" MODIFIED="1595302797780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Medium" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,17 +61,22 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Leetcode" />
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.139-单词拆分">
-    <configuration name="10-正则表达式匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5477. 排布二进制网格的最少交换次数">
+    <configuration name="5462. 压缩字符串 II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/hard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-199" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/hard/10-正则表达式匹配.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-199/5462. 压缩字符串 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1028-从先序遍历还原二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5477. 排布二进制网格的最少交换次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/hard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-200" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/hard/1028-从先序遍历还原二叉树.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="139-单词拆分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="95. 不同的二叉搜索树 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +132,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/139-单词拆分.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/95. 不同的二叉搜索树 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="96. 不同的二叉搜索树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/96. 不同的二叉搜索树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,19 +164,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test2.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/spi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,19 +187,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.1028-从先序遍历还原二叉树" />
-      <item itemvalue="Python.10-正则表达式匹配" />
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.139-单词拆分" />
+      <item itemvalue="Python.95. 不同的二叉搜索树 II" />
+      <item itemvalue="Python.96. 不同的二叉搜索树" />
+      <item itemvalue="Python.spi" />
+      <item itemvalue="Python.5462. 压缩字符串 II" />
+      <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.139-单词拆分" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.10-正则表达式匹配" />
-        <item itemvalue="Python.1028-从先序遍历还原二叉树" />
+        <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
+        <item itemvalue="Python.5462. 压缩字符串 II" />
+        <item itemvalue="Python.spi" />
+        <item itemvalue="Python.95. 不同的二叉搜索树 II" />
+        <item itemvalue="Python.96. 不同的二叉搜索树" />
       </list>
     </recent_temporary>
   </component>
@@ -194,209 +214,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591067212998</updated>
-    </task>
-    <task id="LOCAL-00001" summary="1248-count-number-of-nice-subarrays">
-      <created>1591426580301</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1591426580301</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1248-count-number-of-nice-subarrays">
-      <created>1591439345749</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1591439345750</updated>
-    </task>
-    <task id="LOCAL-00003" summary="16_06-smallest-difference-lcci">
-      <created>1591446989760</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1591446989760</updated>
-    </task>
-    <task id="LOCAL-00004" summary="55-jump-game">
-      <created>1591495052583</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1591495052583</updated>
-    </task>
-    <task id="LOCAL-00005" summary="55-jump-game">
-      <created>1591496310153</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1591496310153</updated>
-    </task>
-    <task id="LOCAL-00006" summary="LCP_06-na-ying-bi.py">
-      <created>1591496741821</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1591496741821</updated>
-    </task>
-    <task id="LOCAL-00007" summary="990-satisfiability-of-equality-equations.py">
-      <created>1591581752953</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1591581752953</updated>
-    </task>
-    <task id="LOCAL-00008" summary="784-letter-case-permutation.py">
-      <created>1591587091345</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1591587091345</updated>
-    </task>
-    <task id="LOCAL-00009" summary="MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py">
-      <created>1591660803608</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1591660803608</updated>
-    </task>
-    <task id="LOCAL-00010" summary="MS46 by DP">
-      <created>1591665733624</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1591665733624</updated>
-    </task>
-    <task id="LOCAL-00011" summary="929-unique-email-addresses.py">
-      <created>1591667672827</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1591667672827</updated>
-    </task>
-    <task id="LOCAL-00012" summary="9-palindrome-number.py">
-      <created>1591758095112</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1591758095112</updated>
-    </task>
-    <task id="LOCAL-00013" summary="22-generate-parentheses.py">
-      <created>1591759027573</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1591759027573</updated>
-    </task>
-    <task id="LOCAL-00014" summary="739-daily-temperatures.py">
-      <created>1591882489803</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1591882489803</updated>
-    </task>
-    <task id="LOCAL-00015" summary="15-3sum.py">
-      <created>1591897281608</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1591897281608</updated>
-    </task>
-    <task id="LOCAL-00016" summary="1292-yshxydyyzdzdbc.py">
-      <created>1591943890997</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1591943890997</updated>
-    </task>
-    <task id="LOCAL-00017" summary="交换和">
-      <created>1591945399566</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1591945399566</updated>
-    </task>
-    <task id="LOCAL-00018" summary="爬楼梯">
-      <created>1592013341477</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1592013341477</updated>
-    </task>
-    <task id="LOCAL-00019" summary="爬楼梯">
-      <created>1592016003802</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1592016003802</updated>
-    </task>
-    <task id="LOCAL-00020" summary="查询后的偶数和">
-      <created>1592016290799</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1592016290799</updated>
-    </task>
-    <task id="LOCAL-00021" summary="两数相加">
-      <created>1592062510976</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1592062510977</updated>
-    </task>
-    <task id="LOCAL-00022" summary="一维数组的动态和">
-      <created>1592109844898</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1592109844899</updated>
-    </task>
-    <task id="LOCAL-00023" summary="不同整数的最少数目">
-      <created>1592127330454</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1592127330454</updated>
-    </task>
-    <task id="LOCAL-00024" summary="14-最长公共前缀和.py">
-      <created>1592194115193</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1592194115193</updated>
-    </task>
-    <task id="LOCAL-00025" summary="二分">
-      <created>1592210678506</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1592210678506</updated>
-    </task>
-    <task id="LOCAL-00026" summary="dp，双指针">
-      <created>1592217929588</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1592217929588</updated>
-    </task>
-    <task id="LOCAL-00027" summary="二分法">
-      <created>1592219533938</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1592219533938</updated>
-    </task>
-    <task id="LOCAL-00028" summary="树上倍增">
-      <created>1592240575068</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1592240575068</updated>
-    </task>
-    <task id="LOCAL-00029" summary="二叉树手动序列化">
-      <created>1592286008354</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1592286008354</updated>
+      <workItem from="1595303564872" duration="23000" />
+      <workItem from="1595303602523" duration="220000" />
+      <workItem from="1595303838919" duration="828000" />
+      <workItem from="1595306529844" duration="115000" />
+      <workItem from="1595306668479" duration="72000" />
+      <workItem from="1595306756741" duration="36000" />
+      <workItem from="1595306814846" duration="69000" />
+      <workItem from="1595306898529" duration="27000" />
+      <workItem from="1595306945603" duration="23000" />
+      <workItem from="1595306979390" duration="58000" />
+      <workItem from="1595307052939" duration="25000" />
+      <workItem from="1595307093276" duration="53000" />
+      <workItem from="1595307162701" duration="21000" />
+      <workItem from="1595307192874" duration="19000" />
+      <workItem from="1595307223966" duration="47000" />
+      <workItem from="1595308527990" duration="58000" />
+      <workItem from="1595308712216" duration="916000" />
+      <workItem from="1595311092365" duration="23000" />
+      <workItem from="1595474770997" duration="1087000" />
+      <workItem from="1595730531300" duration="4229000" />
+      <workItem from="1596332474495" duration="43000" />
+      <workItem from="1596337308968" duration="1934000" />
     </task>
     <task id="LOCAL-00030" summary="最佳观光组合">
       <created>1592362008032</created>
@@ -496,8 +335,256 @@
       <option name="project" value="LOCAL" />
       <updated>1592969508300</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="41">
+      <created>1593237703549</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1593237703549</updated>
+    </task>
+    <task id="LOCAL-00045" summary="41">
+      <created>1593272420741</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1593272420741</updated>
+    </task>
+    <task id="LOCAL-00046" summary="双周赛29">
+      <created>1593272616224</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1593272616224</updated>
+    </task>
+    <task id="LOCAL-00047" summary="周赛195">
+      <created>1593353396322</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1593353396322</updated>
+    </task>
+    <task id="LOCAL-00048" summary="双指针">
+      <created>1593353611921</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1593353611921</updated>
+    </task>
+    <task id="LOCAL-00049" summary="大根堆">
+      <created>1593398808193</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1593398808193</updated>
+    </task>
+    <task id="LOCAL-00050" summary="剑指offer">
+      <created>1593488054859</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1593488054860</updated>
+    </task>
+    <task id="LOCAL-00051" summary="周赛196">
+      <created>1593955997327</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1593955997328</updated>
+    </task>
+    <task id="LOCAL-00052" summary="记忆化搜索">
+      <created>1593962327552</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1593962327552</updated>
+    </task>
+    <task id="LOCAL-00053" summary="树状数组模板">
+      <created>1593964449260</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1593964449260</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix">
+      <created>1593964485561</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1593964485561</updated>
+    </task>
+    <task id="LOCAL-00055" summary="简单dp了">
+      <created>1593966418468</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1593966418469</updated>
+    </task>
+    <task id="LOCAL-00056" summary="模板">
+      <created>1593966436705</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1593966436705</updated>
+    </task>
+    <task id="LOCAL-00057" summary="easy">
+      <created>1594090808159</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1594090808160</updated>
+    </task>
+    <task id="LOCAL-00058" summary="easy">
+      <created>1594107549808</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1594107549809</updated>
+    </task>
+    <task id="LOCAL-00059" summary="easy">
+      <created>1594176799243</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1594176799244</updated>
+    </task>
+    <task id="LOCAL-00060" summary="区间加">
+      <created>1594212407426</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1594212407426</updated>
+    </task>
+    <task id="LOCAL-00061" summary="超时">
+      <created>1594212904224</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1594212904224</updated>
+    </task>
+    <task id="LOCAL-00062" summary="字典树">
+      <created>1594272678336</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1594272678336</updated>
+    </task>
+    <task id="LOCAL-00063" summary="DP 字典树">
+      <created>1594294452983</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1594294452984</updated>
+    </task>
+    <task id="LOCAL-00064" summary="DP">
+      <created>1594384054698</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1594384054698</updated>
+    </task>
+    <task id="LOCAL-00065" summary="树状数组加字典">
+      <created>1594453996691</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1594453996691</updated>
+    </task>
+    <task id="LOCAL-00066" summary="双周赛30">
+      <created>1594483342371</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1594483342371</updated>
+    </task>
+    <task id="LOCAL-00067" summary="递归分治">
+      <created>1594530177867</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1594530177868</updated>
+    </task>
+    <task id="LOCAL-00068" summary="周赛139">
+      <created>1594534804860</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1594534804860</updated>
+    </task>
+    <task id="LOCAL-00069" summary="反向DP">
+      <created>1594553465846</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1594553465846</updated>
+    </task>
+    <task id="LOCAL-00070" summary="easy">
+      <created>1594555024319</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1594555024320</updated>
+    </task>
+    <task id="LOCAL-00071" summary="easy">
+      <created>1594696682602</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1594696682603</updated>
+    </task>
+    <task id="LOCAL-00072" summary="dp">
+      <created>1594743310127</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1594743310127</updated>
+    </task>
+    <task id="LOCAL-00073" summary="广搜">
+      <created>1594890676964</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1594890676964</updated>
+    </task>
+    <task id="LOCAL-00074" summary="dp">
+      <created>1595082037250</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1595082037251</updated>
+    </task>
+    <task id="LOCAL-00075" summary="周赛198">
+      <created>1595131578542</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1595131578542</updated>
+    </task>
+    <task id="LOCAL-00076" summary="记忆化搜索">
+      <created>1595141234629</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1595141234629</updated>
+    </task>
+    <task id="LOCAL-00077" summary="null">
+      <created>1595309130574</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1595309130575</updated>
+    </task>
+    <task id="LOCAL-00078" summary="weekly199">
+      <created>1595736125246</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1595736125247</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -512,85 +599,98 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="爬楼梯" />
-    <MESSAGE value="查询后的偶数和" />
-    <MESSAGE value="两数相加" />
-    <MESSAGE value="一维数组的动态和" />
-    <MESSAGE value="不同整数的最少数目" />
-    <MESSAGE value="14-最长公共前缀和.py" />
-    <MESSAGE value="二分" />
-    <MESSAGE value="dp，双指针" />
-    <MESSAGE value="二分法" />
-    <MESSAGE value="树上倍增" />
-    <MESSAGE value="二叉树手动序列化" />
-    <MESSAGE value="最佳观光组合" />
-    <MESSAGE value="错误解法存档" />
-    <MESSAGE value="二分查找" />
-    <MESSAGE value="整数反转" />
-    <MESSAGE value="字符串构造二叉树" />
-    <MESSAGE value="回文串" />
-    <MESSAGE value="正则表达式" />
-    <MESSAGE value="递归" />
-    <MESSAGE value="数组异或操作" />
-    <MESSAGE value="字典" />
-    <MESSAGE value="避免洪水泛滥" />
-    <MESSAGE value="字符串模式匹配" />
-    <MESSAGE value="67" />
     <MESSAGE value="双指针" />
-    <option name="LAST_COMMIT_MESSAGE" value="双指针" />
+    <MESSAGE value="大根堆" />
+    <MESSAGE value="剑指offer" />
+    <MESSAGE value="周赛196" />
+    <MESSAGE value="树状数组模板" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="简单dp了" />
+    <MESSAGE value="模板" />
+    <MESSAGE value="区间加" />
+    <MESSAGE value="超时" />
+    <MESSAGE value="字典树" />
+    <MESSAGE value="DP 字典树" />
+    <MESSAGE value="DP" />
+    <MESSAGE value="树状数组加字典" />
+    <MESSAGE value="双周赛30" />
+    <MESSAGE value="递归分治" />
+    <MESSAGE value="周赛139" />
+    <MESSAGE value="反向DP" />
+    <MESSAGE value="easy" />
+    <MESSAGE value="广搜" />
+    <MESSAGE value="dp" />
+    <MESSAGE value="周赛198" />
+    <MESSAGE value="记忆化搜索" />
+    <MESSAGE value="null" />
+    <MESSAGE value="weekly199" />
+    <option name="LAST_COMMIT_MESSAGE" value="weekly199" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#Plugins" timestamp="1595307125648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1595307125648" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592925686509">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592925686509" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1593052148269">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1595736125009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593052148269" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592708284923" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1593052148268">
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1595736125009" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596339581383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593052148268" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592708284922" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1593052148267">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596339581383" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594454192130" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596339581382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593052148267" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592708284921" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1593052148268">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596339581382" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594454192128" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596339581382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593052148268" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592708284922" />
-    <state x="243" y="112" key="SettingsEditor" timestamp="1592713975459">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596339581382" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594454192127" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596339581383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592713975459" />
-    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1592713795657">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596339581383" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594454192129" />
+    <state x="243" y="112" key="SettingsEditor" timestamp="1595476501124">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1592713795657" />
+    <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595476501124" />
+    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1595309107106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1595309107106" />
     <state x="598" y="371" key="VCS.EditChangelistDialog" timestamp="1592713750209">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="598" y="371" key="VCS.EditChangelistDialog/0.0.1440.900@0.0.1440.900" timestamp="1592713750209" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592969511177">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1595736128592">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592969511177" />
-    <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1592962639311">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1595736128592" />
+    <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1596338091713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="39" width="612" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592962639311" />
+    <state x="418" y="39" width="612" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596338091713" />
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591067352225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="502" y="346" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1591067352225" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592707476338">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595735817545">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592707476338" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595735817545" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoProgramming$spi.coverage" NAME="spi Coverage Results" MODIFIED="1595475481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$5462___II.coverage" NAME="5462. 压缩字符串 II Coverage Results" MODIFIED="1595735928329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-199" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
   </component>
 </project>
