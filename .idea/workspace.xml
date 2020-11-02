@@ -19,10 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="记忆化搜索">
-      <change afterPath="$PROJECT_DIR$/XCTF/666.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="666">
+      <change afterPath="$PROJECT_DIR$/XCTF/SignIn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptohack/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptohack/telnetlib_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/B2A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/HEX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/crypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/凯撒爆破.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
@@ -61,21 +66,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/toolkit" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\AlgoProgramming\cryptohack" />
+      <recent name="D:\workspace\AlgoProgramming\toolkit" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Leetcode" />
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\AlgoProgramming\toolkit" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.666">
-    <configuration name="5462. 压缩字符串 II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.telnetlib_example">
+    <configuration name="B2A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +91,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-199" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toolkit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-199/5462. 压缩字符串 II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit/B2A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5477. 排布二进制网格的最少交换次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HEX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +113,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toolkit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit/HEX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,64 +127,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="666" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="crypto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCTF" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCTF/666.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="95. 不同的二叉搜索树 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgoProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Medium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Medium/95. 不同的二叉搜索树 II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgoProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python" />
+      <option name="SDK_HOME" value="C:\Users\85796\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toolkit" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/spi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit/crypto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cryptohack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cryptohack/first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="telnetlib_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cryptohack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cryptohack/telnetlib_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +194,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.95. 不同的二叉搜索树 II" />
-      <item itemvalue="Python.spi" />
-      <item itemvalue="Python.5462. 压缩字符串 II" />
-      <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
-      <item itemvalue="Python.666" />
+      <item itemvalue="Python.first" />
+      <item itemvalue="Python.telnetlib_example" />
+      <item itemvalue="Python.B2A" />
+      <item itemvalue="Python.HEX" />
+      <item itemvalue="Python.crypto" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.666" />
-        <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
-        <item itemvalue="Python.5462. 压缩字符串 II" />
-        <item itemvalue="Python.spi" />
-        <item itemvalue="Python.95. 不同的二叉搜索树 II" />
+        <item itemvalue="Python.telnetlib_example" />
+        <item itemvalue="Python.HEX" />
+        <item itemvalue="Python.crypto" />
+        <item itemvalue="Python.B2A" />
+        <item itemvalue="Python.first" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +243,9 @@
       <workItem from="1595730531300" duration="4229000" />
       <workItem from="1596332474495" duration="43000" />
       <workItem from="1596337308968" duration="1934000" />
-      <workItem from="1603791752165" duration="1378000" />
-    </task>
-    <task id="LOCAL-00030" summary="最佳观光组合">
-      <created>1592362008032</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1592362008032</updated>
+      <workItem from="1603791752165" duration="2049000" />
+      <workItem from="1603807904264" duration="5126000" />
+      <workItem from="1604111092241" duration="8705000" />
     </task>
     <task id="LOCAL-00031" summary="错误解法存档">
       <created>1592367812024</created>
@@ -580,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595736125247</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="666">
+      <created>1603795349591</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1603795349591</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +609,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="双指针" />
     <MESSAGE value="大根堆" />
     <MESSAGE value="剑指offer" />
     <MESSAGE value="周赛196" />
@@ -624,50 +633,48 @@
     <MESSAGE value="记忆化搜索" />
     <MESSAGE value="null" />
     <MESSAGE value="weekly199" />
-    <option name="LAST_COMMIT_MESSAGE" value="weekly199" />
+    <MESSAGE value="666" />
+    <option name="LAST_COMMIT_MESSAGE" value="666" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="98" key="#Plugins" timestamp="1595307125648">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604287280007">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1595307125648" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604287280007" />
     <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1595736125009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1595736125009" />
-    <state width="938" height="201" key="GridCell.Tab.0.bottom" timestamp="1603795277473">
+    <state width="937" height="200" key="GridCell.Tab.0.bottom" timestamp="1604288252638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596339581383" />
-    <state width="938" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603795277473" />
-    <state width="938" height="201" key="GridCell.Tab.0.center" timestamp="1603795277473">
+    <state width="937" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604288252638" />
+    <state width="937" height="200" key="GridCell.Tab.0.center" timestamp="1604288252638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596339581382" />
-    <state width="938" height="201" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603795277473" />
-    <state width="938" height="201" key="GridCell.Tab.0.left" timestamp="1603795277473">
+    <state width="937" height="200" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604288252638" />
+    <state width="937" height="200" key="GridCell.Tab.0.left" timestamp="1604288252637">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596339581382" />
-    <state width="938" height="201" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603795277473" />
-    <state width="938" height="201" key="GridCell.Tab.0.right" timestamp="1603795277473">
+    <state width="937" height="200" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604288252637" />
+    <state width="937" height="200" key="GridCell.Tab.0.right" timestamp="1604288252638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596339581383" />
-    <state width="938" height="201" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603795277473" />
-    <state x="243" y="112" key="SettingsEditor" timestamp="1595476501124">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="937" height="200" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604288252638" />
+    <state x="324" y="134" key="SettingsEditor" timestamp="1604111111058">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="243" y="112" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595476501124" />
-    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1595309107106">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1595309107106" />
-    <state x="427" y="228" key="Vcs.Push.Dialog.v2" timestamp="1603795334895">
+    <state x="324" y="134" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604111111058" />
+    <state x="427" y="228" key="Vcs.Push.Dialog.v2" timestamp="1603795354016">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1595736128592" />
-    <state x="427" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603795334895" />
+    <state x="427" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603795354016" />
     <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1596338091713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -678,9 +685,16 @@
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595735817545" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoProgramming$telnetlib_example.coverage" NAME="telnetlib_example Coverage Results" MODIFIED="1604288252632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cryptohack" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$B2A.coverage" NAME="B2A Coverage Results" MODIFIED="1604284405529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$5462___II.coverage" NAME="5462. 压缩字符串 II Coverage Results" MODIFIED="1595735928329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-199" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$SignIn.coverage" NAME="SignIn Coverage Results" MODIFIED="1604120256071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$first.coverage" NAME="first Coverage Results" MODIFIED="1604244560632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cryptohack" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$spi.coverage" NAME="spi Coverage Results" MODIFIED="1595475481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$666.coverage" NAME="666 Coverage Results" MODIFIED="1603795277467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604288056146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$crypto.coverage" NAME="crypto Coverage Results" MODIFIED="1604287435399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$.coverage" NAME="凯撒爆破 Coverage Results" MODIFIED="1604121295084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
   </component>
 </project>
