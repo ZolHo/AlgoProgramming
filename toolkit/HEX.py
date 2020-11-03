@@ -10,5 +10,5 @@ def hex (input) :
     return B2A.b2a(tmp)
 
 if __name__ == '__main__':
-    input = 0x73796e636f706174696f6e5f7072657474795f73696c766572736d69746873
-    print(hex(input))
+    a = 0x424954534354467b683164335f316e5f706c34316e5f353137337d
+    print(hex(a))
