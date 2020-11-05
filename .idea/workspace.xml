@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/XCTF/cr3-what-is-this-encryption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XCTF/sherlock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XCTF/sherlock.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XCTF/Easy_Crypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XCTF/Easycrypto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptohack/未命名.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cryptohack/未命名.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toolkit/HEX.py" beforeDir="false" afterPath="$PROJECT_DIR$/toolkit/HEX.py" afterDir="false" />
     </list>
     <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
       <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
@@ -69,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/XCTF" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Leetcode" />
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
@@ -78,8 +76,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cr3-what-is-this-encryption">
-    <configuration name="5477. 排布二进制网格的最少交换次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Easy_Crypto">
+    <configuration name="Easy_Crypto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCTF" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCTF/Easy_Crypto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +188,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
       <item itemvalue="Python.XOR" />
       <item itemvalue="Python.HEX" />
       <item itemvalue="Python.sherlock" />
       <item itemvalue="Python.cr3-what-is-this-encryption" />
+      <item itemvalue="Python.Easy_Crypto" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Easy_Crypto" />
         <item itemvalue="Python.cr3-what-is-this-encryption" />
         <item itemvalue="Python.HEX" />
         <item itemvalue="Python.sherlock" />
         <item itemvalue="Python.XOR" />
-        <item itemvalue="Python.5477. 排布二进制网格的最少交换次数" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +237,7 @@
       <workItem from="1595730531300" duration="4229000" />
       <workItem from="1596332474495" duration="43000" />
       <workItem from="1596337308968" duration="1934000" />
-      <workItem from="1604297193111" duration="7112000" />
-    </task>
-    <task id="LOCAL-00032" summary="二分查找">
-      <created>1592380851343</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1592380851344</updated>
+      <workItem from="1604297193111" duration="9259000" />
     </task>
     <task id="LOCAL-00033" summary="整数反转">
       <created>1592381954226</created>
@@ -584,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604309957440</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="..">
+      <created>1604368916934</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1604368916934</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,34 +629,38 @@
     <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604368903528">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604368916447">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604368903528" />
-    <state width="699" height="191" key="GridCell.Tab.0.bottom" timestamp="1604368895871">
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604368916447" />
+    <state width="699" height="179" key="GridCell.Tab.0.bottom" timestamp="1604552622397">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604368895871" />
-    <state width="699" height="191" key="GridCell.Tab.0.center" timestamp="1604368895871">
+    <state width="699" height="179" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604552622397" />
+    <state width="699" height="179" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604549110635" />
+    <state width="699" height="179" key="GridCell.Tab.0.center" timestamp="1604552622396">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="191" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604368895871" />
-    <state width="699" height="191" key="GridCell.Tab.0.left" timestamp="1604368895870">
+    <state width="699" height="179" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604552622396" />
+    <state width="699" height="179" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604549110634" />
+    <state width="699" height="179" key="GridCell.Tab.0.left" timestamp="1604552622395">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="191" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604368895870" />
-    <state width="699" height="191" key="GridCell.Tab.0.right" timestamp="1604368895871">
+    <state width="699" height="179" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604552622395" />
+    <state width="699" height="179" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604549110633" />
+    <state width="699" height="179" key="GridCell.Tab.0.right" timestamp="1604552622396">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604368895871" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604309962291">
+    <state width="699" height="179" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604552622396" />
+    <state width="699" height="179" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604549110635" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604368922509">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604309962291" />
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604368471811">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604368922509" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604545166959">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1604368471811" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1604545166959" />
     <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1596338091713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -669,6 +671,7 @@
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595735817545" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoProgramming$Easy_Crypto.coverage" NAME="Easy_Crypto Coverage Results" MODIFIED="1604549110624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604367713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$spi.coverage" NAME="spi Coverage Results" MODIFIED="1595475481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$cr3_what_is_this_encryption.coverage" NAME="cr3-what-is-this-encryption Coverage Results" MODIFIED="1604368841414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
