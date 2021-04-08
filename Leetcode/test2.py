@@ -1,5 +1,6 @@
-a = 'dodod'
-b = ['dfs','222', 'sb']
-s = 'sb'
-b = set(b)
-print(s in b)
+a = [(1,2)]
+print()
+for i in a :
+    print (i)
+    print (i+(1,2))
+print((1,2) in a)

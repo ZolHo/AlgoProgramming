@@ -19,10 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/XCTF/Easy_Crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XCTF/Easycrypto" afterDir="false" />
+    <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="..">
+      <change afterPath="$PROJECT_DIR$/Others/N-Queen-DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/N-Queen-HuiSu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/NQueenDP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/ori.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/ExGCD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_2,_2_03_下午_[ydontsee]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_2__2_03___ydontsee_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCTF/cr3-what-is-this-encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCTF/cr3-what-is-this-encryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptohack/XOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptohack/XOR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptohack/未命名.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cryptohack/未命名.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolkit/凯撒爆破.py" beforeDir="false" afterPath="$PROJECT_DIR$/toolkit/凯撒爆破.py" afterDir="false" />
     </list>
     <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
       <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/test.py" afterDir="false" />
@@ -47,7 +61,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="9479f5b6-c735-4360-b3e5-e093559b1046" />
+  <component name="JupyterTrust" id="67158267-4c4c-430a-84ee-bcfc3d5539e7" />
   <component name="ProjectId" id="1ckKaDQVRKhXytdeh6hxH53oq0g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,24 +74,27 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/XCTF" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\AlgoProgramming" />
       <recent name="$PROJECT_DIR$/XCTF" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\AlgoProgramming" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Leetcode" />
       <recent name="$PROJECT_DIR$/Leetcode/context/weekly-193" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/XCTF" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Easy_Crypto">
-    <configuration name="Easy_Crypto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.N-Queen-HuiSu">
+    <configuration name="N-Queen-DP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCTF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCTF/Easy_Crypto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/N-Queen-DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HEX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N-Queen-DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toolkit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit/HEX.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\AlgoProgramming\Others\N-Queen-DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N-Queen-HuiSu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cryptohack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cryptohack/XOR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/N-Queen-HuiSu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cr3-what-is-this-encryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NQueenDP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCTF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCTF/cr3-what-is-this-encryption.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\AlgoProgramming\Others\NQueenDP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sherlock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +190,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCTF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCTF/sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +227,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.XOR" />
-      <item itemvalue="Python.HEX" />
-      <item itemvalue="Python.sherlock" />
-      <item itemvalue="Python.cr3-what-is-this-encryption" />
-      <item itemvalue="Python.Easy_Crypto" />
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.N-Queen-HuiSu" />
+      <item itemvalue="Python.NQueenDP" />
+      <item itemvalue="Python.N-Queen-DP" />
+      <item itemvalue="Python.N-Queen-DP (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Easy_Crypto" />
-        <item itemvalue="Python.cr3-what-is-this-encryption" />
-        <item itemvalue="Python.HEX" />
-        <item itemvalue="Python.sherlock" />
-        <item itemvalue="Python.XOR" />
+        <item itemvalue="Python.N-Queen-HuiSu" />
+        <item itemvalue="Python.N-Queen-DP (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.N-Queen-DP" />
+        <item itemvalue="Python.NQueenDP" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +277,24 @@
       <workItem from="1595730531300" duration="4229000" />
       <workItem from="1596332474495" duration="43000" />
       <workItem from="1596337308968" duration="1934000" />
-      <workItem from="1604297193111" duration="9259000" />
+      <workItem from="1604297193111" duration="7112000" />
+      <workItem from="1604552725901" duration="605000" />
+      <workItem from="1604625516790" duration="18747000" />
+      <workItem from="1604798019543" duration="6327000" />
+      <workItem from="1604808621950" duration="74000" />
+      <workItem from="1604808850671" duration="12689000" />
+      <workItem from="1604833343891" duration="60608000" />
+      <workItem from="1604975649292" duration="223000" />
+      <workItem from="1604976634169" duration="3264000" />
+      <workItem from="1604986771136" duration="19217000" />
+      <workItem from="1605104470063" duration="686000" />
+      <workItem from="1605408888398" duration="162000" />
+      <workItem from="1605946681273" duration="643000" />
+      <workItem from="1606019723760" duration="29000" />
+      <workItem from="1610105050424" duration="35955000" />
+      <workItem from="1610352356391" duration="14003000" />
+      <workItem from="1614832875357" duration="676000" />
+      <workItem from="1617280817968" duration="208000" />
     </task>
     <task id="LOCAL-00033" summary="整数反转">
       <created>1592381954226</created>
@@ -576,11 +633,11 @@
       <updated>1604309957440</updated>
     </task>
     <task id="LOCAL-00081" summary="..">
-      <created>1604368916934</created>
+      <created>1617281009635</created>
       <option name="number" value="00081" />
       <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1604368916934</updated>
+      <updated>1617281009637</updated>
     </task>
     <option name="localTasksCounter" value="82" />
     <servers />
@@ -629,55 +686,85 @@
     <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604368916447">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="907" height="329" key="GridCell.Tab.0.bottom" timestamp="1610367260535">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604368916447" />
-    <state width="699" height="179" key="GridCell.Tab.0.bottom" timestamp="1604552622397">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="907" height="329" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1610367260535" />
+    <state width="907" height="329" key="GridCell.Tab.0.center" timestamp="1610367260535">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="699" height="179" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604552622397" />
-    <state width="699" height="179" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604549110635" />
-    <state width="699" height="179" key="GridCell.Tab.0.center" timestamp="1604552622396">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="907" height="329" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1610367260535" />
+    <state width="907" height="329" key="GridCell.Tab.0.left" timestamp="1610367260535">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="699" height="179" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604552622396" />
-    <state width="699" height="179" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604549110634" />
-    <state width="699" height="179" key="GridCell.Tab.0.left" timestamp="1604552622395">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="907" height="329" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1610367260535" />
+    <state width="907" height="329" key="GridCell.Tab.0.right" timestamp="1610367260535">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="699" height="179" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604552622395" />
-    <state width="699" height="179" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604549110633" />
-    <state width="699" height="179" key="GridCell.Tab.0.right" timestamp="1604552622396">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="907" height="329" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1610367260535" />
+    <state width="1329" height="407" key="GridCell.Tab.1.bottom" timestamp="1610244705683">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="699" height="179" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604552622396" />
-    <state width="699" height="179" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604549110635" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604368922509">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1329" height="407" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1610244705683" />
+    <state width="1329" height="407" key="GridCell.Tab.1.center" timestamp="1610244705682">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604368922509" />
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604545166959">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1329" height="407" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1610244705682" />
+    <state width="1329" height="407" key="GridCell.Tab.1.left" timestamp="1610244705682">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1604545166959" />
-    <state x="418" y="39" width="612" height="822" key="find.popup" timestamp="1596338091713">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1329" height="407" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1610244705682" />
+    <state width="1329" height="407" key="GridCell.Tab.1.right" timestamp="1610244705683">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="418" y="39" width="612" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596338091713" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595735817545">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1329" height="407" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1610244705683" />
+    <state x="627" y="340" key="Vcs.Push.Dialog.v2" timestamp="1617281018531">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595735817545" />
+    <state x="627" y="340" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1617281018531" />
+    <state x="1621" y="569" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617280869283">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1621" y="569" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1617280869283" />
+    <state x="93" y="100" width="1093" height="1247" key="dock-window-1" timestamp="1610113711996">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="93" y="100" width="1093" height="1247" key="dock-window-1/0.0.2560.1440/3840.1379.1024.768@0.0.2560.1440" timestamp="1610113711996" />
+    <state x="743" y="63" width="1088" height="1316" key="find.popup" timestamp="1610105995247">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="743" y="63" width="1088" height="1316" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1610105995247" />
+    <state x="1459" y="295" width="894" height="902" key="search.everywhere.popup" timestamp="1610359566710">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1459" y="295" width="894" height="902" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1610359566710" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AlgoProgramming$Easy_Crypto.coverage" NAME="Easy_Crypto Coverage Results" MODIFIED="1604549110624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604367713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$spi.coverage" NAME="spi Coverage Results" MODIFIED="1595475481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$cr3_what_is_this_encryption.coverage" NAME="cr3-what-is-this-encryption Coverage Results" MODIFIED="1604368841414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604367713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1604853730873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$nctimu.coverage" NAME="nctimu Coverage Results" MODIFIED="1604905888241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_DP.coverage" NAME="N-Queen-DP Coverage Results" MODIFIED="1610244705671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$taste.coverage" NAME="taste Coverage Results" MODIFIED="1604830327097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$longzhu.coverage" NAME="longzhu Coverage Results" MODIFIED="1605024289142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1605016798885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$pwn.coverage" NAME="pwn Coverage Results" MODIFIED="1605004790353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1605021690391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_HuiSu.coverage" NAME="N-Queen-HuiSu Coverage Results" MODIFIED="1610366813965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$easy_has.coverage" NAME="easy_has Coverage Results" MODIFIED="1605021586758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test.coverage" NAME="test Coverage Results" MODIFIED="1610353317226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$rarrack.coverage" NAME="rarrack Coverage Results" MODIFIED="1604802329523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$DP_NQUEEN_NEW.coverage" NAME="DP_NQUEEN_NEW Coverage Results" MODIFIED="1610352029097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$antforest.coverage" NAME="antforest Coverage Results" MODIFIED="1604977500167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1605009498928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$XOR.coverage" NAME="XOR Coverage Results" MODIFIED="1604299876781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cryptohack" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$.coverage" NAME="凯撒爆破 Coverage Results" MODIFIED="1604996749195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1605005694100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$merkle_rc.coverage" NAME="merkle-rc Coverage Results" MODIFIED="1604891139741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$5462___II.coverage" NAME="5462. 压缩字符串 II Coverage Results" MODIFIED="1595735928329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-199" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$sherlock.coverage" NAME="sherlock Coverage Results" MODIFIED="1604367626876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$cr3_what_is_this_encryption.coverage" NAME="cr3-what-is-this-encryption Coverage Results" MODIFIED="1604368841414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_DP__1_.coverage" NAME="N-Queen-DP (1) Coverage Results" MODIFIED="1610363127473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
   </component>
 </project>
