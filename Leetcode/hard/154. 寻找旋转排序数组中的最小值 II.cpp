@@ -24,11 +24,3 @@ public:
         return nums[l];
     }
 };
-
-
-int main() {
-    Solution so;
-    so.
-    cout<< <<endl;
-    return 0;
-}
