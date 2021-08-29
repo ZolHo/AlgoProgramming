@@ -4,3 +4,4 @@
 /__pycache__/
 *.json
 *.xml
+.idea/workspace.xml
