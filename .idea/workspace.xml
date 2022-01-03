@@ -20,180 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1ae52ee-ea4e-4048-83ad-905b90294255" name="Default Changelist" comment="..">
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-52/5742. 将句子排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-52/5743. 增长的内存泄露.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-52/5744. 旋转盒子 .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-52/Fail5212. 向下取整数对和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-53/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-53/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-53/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-54/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-54/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-54/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-56/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-56/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/Dweekly-56/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-241/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-241/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-241/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-241/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-242/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-242/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-242/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-244/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-244/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-244/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-244/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-245/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-245/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-245/2t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-245/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-249/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-249/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-249/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/context/weekly-249/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/hard/218-天际线问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/1723. 完成所有工作的最短时间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/01区间集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/context/LCCUP21/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/context/LCCUP21/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/context/LCCUP21/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/二分模板.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tesm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/112. 路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/112. 路径总和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/125-验证回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/125-验证回文串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/226. 翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/226. 翻转二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/461. 汉明距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/461. 汉明距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/617. 合并二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/617. 合并二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/67-二进制求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/67-二进制求和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/7-整数反转.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/7-整数反转.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/70-climbing-stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/70-climbing-stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/784-letter-case-permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/784-letter-case-permutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/929-unique-email-addresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/929-unique-email-addresses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/985-sum-of-even-numbers-after-queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/985-sum-of-even-numbers-after-queries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/LCP_06-na-ying-bi.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/LCP_06-na-ying-bi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/剑指 Offer 09. 用两个栈实现队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/剑指 Offer 09. 用两个栈实现队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/面试题 16.11. 跳水板.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/面试题 16.11. 跳水板.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/面试题02-01-移除重复节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Easy/面试题02-01-移除重复节点.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/0898-bitwise-ors-of-subarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/0898-bitwise-ors-of-subarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1006. 笨阶乘.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1006. 笨阶乘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1014-最佳观光组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1014-最佳观光组合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/11-盛水最多的容器.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/11-盛水最多的容器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/114. 二叉树展开为链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/114. 二叉树展开为链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/116. 填充每个节点的下一个右侧节点指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/116. 填充每个节点的下一个右侧节点指针.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/12-整数转罗马数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/12-整数转罗马数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/120. 三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/120. 三角形最小路径和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1248-count-number-of-nice-subarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1248-count-number-of-nice-subarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1292-yshxydyyzdzdbc.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1292-yshxydyyzdzdbc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1300-转变数组后最接近目标值的数组和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1300-转变数组后最接近目标值的数组和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/139-单词拆分.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/139-单词拆分.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/14-最长公共前缀和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/14-最长公共前缀和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/1400-construct-k-palindrome-strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/1400-construct-k-palindrome-strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/15-3sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/15-3sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/153. 寻找旋转排序数组中的最小值.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/153. 寻找旋转排序数组中的最小值.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/16-最接近的三数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/16-最接近的三数之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/16_06-smallest-difference-lcci.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/16_06-smallest-difference-lcci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/17. 电话号码的字母组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/17. 电话号码的字母组合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/179. 最大数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/179. 最大数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/18-四数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/18-四数之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/19. 删除链表的倒数第 N 个结点.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/19. 删除链表的倒数第 N 个结点.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/2-add-two-numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/2-add-two-numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/207. 课程表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/207. 课程表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/208. 实现 Trie (前缀树).py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/208. 实现 Trie (前缀树).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/209-长度最小的子数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/209-长度最小的子数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/213. 打家劫舍 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/213. 打家劫舍 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/215-数组中的第K个最大元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/215-数组中的第K个最大元素.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/22-generate-parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/22-generate-parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/220. 存在重复元素 III.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/220. 存在重复元素 III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/3-无重复字符的最长子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/3-无重复字符的最长子串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/309. 最佳买卖股票时机含冷冻期.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/309. 最佳买卖股票时机含冷冻期.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/33. 搜索旋转排序数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/33. 搜索旋转排序数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/337. 打家劫舍 III.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/337. 打家劫舍 III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/343. 整数拆分.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/343. 整数拆分.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/43. 字符串相乘.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/43. 字符串相乘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/5. 最长回文子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/5. 最长回文子串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/55-jump-game.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/55-jump-game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/59. 螺旋矩阵 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/59. 螺旋矩阵 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/63-不同路径 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/63-不同路径 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/739-daily-temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/739-daily-temperatures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/740. 删除并获得点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/740. 删除并获得点数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/75.颜色分类.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/75.颜色分类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/783. 二叉搜索树节点最小距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/783. 二叉搜索树节点最小距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/785. 判断二分图.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/785. 判断二分图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/8. 字符串转换整数 (atoi).py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/8. 字符串转换整数 (atoi).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/9-palindrome-number.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/9-palindrome-number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/91. 解码方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/91. 解码方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/95. 不同的二叉搜索树 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/95. 不同的二叉搜索树 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/96. 不同的二叉搜索树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/96. 不同的二叉搜索树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/990-satisfiability-of-equality-equations.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/990-satisfiability-of-equality-equations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/MS16_21-sum-swap-lcci.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/MS16_21-sum-swap-lcci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/MS46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/剑指 Offer 07. 重建二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/剑指 Offer 07. 重建二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/面试题 16.18. 模式匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/面试题 16.18. 模式匹配.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Medium/面试题 17.13. 恢复空格.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Medium/面试题 17.13. 恢复空格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-29/5432-去掉最低工资和最高工资后的工资平均值.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-29/5432-去掉最低工资和最高工资后的工资平均值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-29/5433-n 的第 k 个因子.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-29/5433-n 的第 k 个因子.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-29/5434-删掉一个元素以后全为 1 的最长子数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-29/5434-删掉一个元素以后全为 1 的最长子数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-29/5435-并行课程 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-29/5435-并行课程 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-30/5177. 转变日期格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-30/5177. 转变日期格式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-30/5445. 子数组和排序后的区间和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-30/5445. 子数组和排序后的区间和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-30/5446. 三次操作后最大值与最小值的最小差.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-30/5446. 三次操作后最大值与最小值的最小差.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-30/5447. 石子游戏 IV.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-30/5447. 石子游戏 IV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-31/5456. 在区间范围内统计奇数数目.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-31/5456. 在区间范围内统计奇数数目.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-31/5458. 字符串的好分割数目.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-31/5458. 字符串的好分割数目.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/Dweekly-32/5469. K 次操作转变字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/Dweekly-32/5469. K 次操作转变字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-193/1483-树节点的第K个祖先.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-193/1483-树节点的第K个祖先.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-193/5436-running-sum-of-1d-array.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-193/5436-running-sum-of-1d-array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-193/5437-least-number-of-unique-integers-after-k-removals.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-193/5437-least-number-of-unique-integers-after-k-removals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-193/5438-制作m束花所需的最少天数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-193/5438-制作m束花所需的最少天数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-194/5440-数组异或操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-194/5440-数组异或操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-194/5441-保证文件名唯一.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-194/5441-保证文件名唯一.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-194/5442-避免洪水泛滥.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-194/5442-避免洪水泛滥.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-195/5448-判断路径是否相交.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-195/5448-判断路径是否相交.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-195/5449-检查数组对是否可以被 k 整除.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-195/5449-检查数组对是否可以被 k 整除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-196/1505. 最多 K 次交换相邻数位后得到的最小整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-196/1505. 最多 K 次交换相邻数位后得到的最小整数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-196/5452-判断能否形成等差数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-196/5452-判断能否形成等差数列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-196/5453-所有蚂蚁掉下来前的最后一刻.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-196/5453-所有蚂蚁掉下来前的最后一刻.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-196/5454-统计全 1 子矩形.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-196/5454-统计全 1 子矩形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-197/5211. 概率最大的路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-197/5211. 概率最大的路径.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-197/5460. 好数对的数目.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-197/5460. 好数对的数目.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-197/5461. 仅含 1 的子串数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-197/5461. 仅含 1 的子串数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-197/5463. 服务中心的最佳位置.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-197/5463. 服务中心的最佳位置.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-198/5464. 换酒问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-198/5464. 换酒问题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-198/5465. 子树中标签相同的节点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-198/5465. 子树中标签相同的节点数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-199/5472. 重新排列字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-199/5472. 重新排列字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-200/5475. 统计好三元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-200/5475. 统计好三元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-200/5476. 找出数组游戏的赢家.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-200/5476. 找出数组游戏的赢家.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-200/5477. 排布二进制网格的最少交换次数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-201/dier.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-201/dier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-201/disan.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-201/disan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-201/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-201/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-235/1816. 截断句子.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-235/1816. 截断句子.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-235/1817. 查找用户活跃分钟数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-235/1817. 查找用户活跃分钟数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-235/notpass1818. 绝对差值和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-235/notpass1818. 绝对差值和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-237/5734. 判断句子是否为全字母句.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-237/5734. 判断句子是否为全字母句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-237/5735. 雪糕的最大数量.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-237/5735. 雪糕的最大数量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-237/5736. 单线程 CPU.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-237/5736. 单线程 CPU.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/context/weekly-237/5737. 所有数对按位与结果的异或和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/context/weekly-237/5737. 所有数对按位与结果的异或和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/10-正则表达式匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/10-正则表达式匹配.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/1028-从先序遍历还原二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/1028-从先序遍历还原二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/124-二叉树中的最大路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/124-二叉树中的最大路径和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/127. 单词接龙.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/127. 单词接龙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/135. 分发糖果.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/135. 分发糖果.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/140. 单词拆分 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/140. 单词拆分 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/154. 寻找旋转排序数组中的最小值 II.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/154. 寻找旋转排序数组中的最小值 II.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/174. 地下城游戏.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/174. 地下城游戏.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/297-二叉树的序列化与反序列化.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/297-二叉树的序列化与反序列化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/312. 戳气球.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/312. 戳气球.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/315. 计算右侧小于当前元素的个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/315. 计算右侧小于当前元素的个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/32-最长有效括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/32-最长有效括号.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/4-寻找两个正序数组的中位数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/4-寻找两个正序数组的中位数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/403. 青蛙过河.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/403. 青蛙过河.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/41-缺失的第一个正数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/41-缺失的第一个正数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/44-通配符匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/44-通配符匹配.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/87. 扰乱字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/87. 扰乱字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/hard/97. 交错字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/97. 交错字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nowcoder/context/NC140.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nowcoder/context/NC78.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nowcoder/context/NC93.cpp" beforeDir="false" />
     </list>
-    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="">
-      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/test.py" afterDir="false" />
-    </list>
+    <list id="86577e4c-ee3f-464d-b3d8-174e2eb9f616" name="ydontsee" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -214,6 +56,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="67158267-4c4c-430a-84ee-bcfc3d5539e7" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ckKaDQVRKhXytdeh6hxH53oq0g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -230,7 +75,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -290,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="N-Queen-HuiSu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tesm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/N-Queen-HuiSu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tesm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,20 +227,21 @@
       <item itemvalue="Python.test3" />
       <item itemvalue="Python.33. 搜索旋转排序数组" />
       <item itemvalue="Python.43. 字符串相乘" />
-      <item itemvalue="Python.N-Queen-HuiSu" />
+      <item itemvalue="Python.tesm" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.tesm" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.43. 字符串相乘" />
         <item itemvalue="Python.33. 搜索旋转排序数组" />
-        <item itemvalue="Python.N-Queen-HuiSu" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -473,6 +319,18 @@
       <workItem from="1625970429240" duration="7713000" />
       <workItem from="1626109039650" duration="3434000" />
       <workItem from="1626137227680" duration="6832000" />
+      <workItem from="1626575283473" duration="5447000" />
+      <workItem from="1630404695248" duration="19000" />
+      <workItem from="1631342465171" duration="3331000" />
+      <workItem from="1631531156452" duration="39000" />
+      <workItem from="1633791936501" duration="1465000" />
+      <workItem from="1633936775778" duration="3355000" />
+      <workItem from="1634026145691" duration="753000" />
+      <workItem from="1634093819086" duration="301000" />
+      <workItem from="1634560713291" duration="617000" />
+      <workItem from="1635251276157" duration="53000" />
+      <workItem from="1640083857371" duration="669000" />
+      <workItem from="1640230558511" duration="2640000" />
     </task>
     <task id="LOCAL-00038" summary="数组异或操作">
       <created>1592713833594</created>
@@ -821,7 +679,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -833,7 +691,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix" />
@@ -863,93 +720,36 @@
     <MESSAGE value=".." />
     <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1512" y="361" key="#Plugins" timestamp="1620812199599">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1512" y="361" key="#Plugins/0.0.2560.1440@0.0.2560.1440" timestamp="1620812199599" />
-    <state x="1579" y="475" key="FileChooserDialogImpl" timestamp="1625565496894">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1579" y="475" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1625565496894" />
-    <state width="897" height="261" key="GridCell.Tab.0.bottom" timestamp="1621774693807">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="897" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1621774693807" />
-    <state width="1235" height="471" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1620577948409" />
-    <state width="897" height="261" key="GridCell.Tab.0.center" timestamp="1621774693807">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="897" height="261" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1621774693807" />
-    <state width="1235" height="471" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1620577948409" />
-    <state width="897" height="261" key="GridCell.Tab.0.left" timestamp="1621774693807">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="897" height="261" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1621774693807" />
-    <state width="1235" height="471" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1620577948408" />
-    <state width="897" height="261" key="GridCell.Tab.0.right" timestamp="1621774693807">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="897" height="261" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1621774693807" />
-    <state width="1235" height="471" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1620577948409" />
-    <state x="953" y="612" width="1082" height="708" key="SettingsEditor" timestamp="1626137293053">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="519" y="232" width="1082" height="708" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1622031230824" />
-    <state x="953" y="612" width="1240" height="711" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1626137293053" />
-    <state x="627" y="340" key="Vcs.Push.Dialog.v2" timestamp="1620225323732">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="627" y="340" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1620225323732" />
-    <state x="1621" y="569" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620575975122">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1621" y="569" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1620575975122" />
-    <state x="1583" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1626110834131">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1187" y="247" width="672" height="509" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1622951351573" />
-    <state x="1583" y="329" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1626110834131" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetcode/test2.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoProgramming$5462___II.coverage" NAME="5462. 压缩字符串 II Coverage Results" MODIFIED="1595735928329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-199" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$taste.coverage" NAME="taste Coverage Results" MODIFIED="1604830327097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$cr3_what_is_this_encryption.coverage" NAME="cr3-what-is-this-encryption Coverage Results" MODIFIED="1604368841414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test.coverage" NAME="test Coverage Results" MODIFIED="1640231897787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$spi.coverage" NAME="spi Coverage Results" MODIFIED="1595475481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604367713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1605021690391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$merkle_rc.coverage" NAME="merkle-rc Coverage Results" MODIFIED="1604891139741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1604853730873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$nctimu.coverage" NAME="nctimu Coverage Results" MODIFIED="1604905888241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_DP.coverage" NAME="N-Queen-DP Coverage Results" MODIFIED="1610244705671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$taste.coverage" NAME="taste Coverage Results" MODIFIED="1604830327097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$longzhu.coverage" NAME="longzhu Coverage Results" MODIFIED="1605024289142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1605016798885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$pwn.coverage" NAME="pwn Coverage Results" MODIFIED="1605004790353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1620577739478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$43__.coverage" NAME="43. 字符串相乘 Coverage Results" MODIFIED="1618989259378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Medium" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1605021690391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_HuiSu.coverage" NAME="N-Queen-HuiSu Coverage Results" MODIFIED="1610366813965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$easy_has.coverage" NAME="easy_has Coverage Results" MODIFIED="1605021586758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test.coverage" NAME="test Coverage Results" MODIFIED="1621774693780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$rarrack.coverage" NAME="rarrack Coverage Results" MODIFIED="1604802329523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$DP_NQUEEN_NEW.coverage" NAME="DP_NQUEEN_NEW Coverage Results" MODIFIED="1610352029097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$antforest.coverage" NAME="antforest Coverage Results" MODIFIED="1604977500167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1605009498928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$HEX.coverage" NAME="HEX Coverage Results" MODIFIED="1604367713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$33__.coverage" NAME="33. 搜索旋转排序数组 Coverage Results" MODIFIED="1618986147559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Medium" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$XOR.coverage" NAME="XOR Coverage Results" MODIFIED="1604299876781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cryptohack" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$.coverage" NAME="凯撒爆破 Coverage Results" MODIFIED="1604996749195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1605005694100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$merkle_rc.coverage" NAME="merkle-rc Coverage Results" MODIFIED="1604891139741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$5462___II.coverage" NAME="5462. 压缩字符串 II Coverage Results" MODIFIED="1595735928329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-199" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$tesm.coverage" NAME="tesm Coverage Results" MODIFIED="1634560727857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_HuiSu.coverage" NAME="N-Queen-HuiSu Coverage Results" MODIFIED="1610366813965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$sherlock.coverage" NAME="sherlock Coverage Results" MODIFIED="1604367626876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
-    <SUITE FILE_PATH="coverage/AlgoProgramming$cr3_what_is_this_encryption.coverage" NAME="cr3-what-is-this-encryption Coverage Results" MODIFIED="1604368841414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XCTF" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_DP.coverage" NAME="N-Queen-DP Coverage Results" MODIFIED="1610244705671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1605009498928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$XOR.coverage" NAME="XOR Coverage Results" MODIFIED="1604299876781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cryptohack" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$pwn.coverage" NAME="pwn Coverage Results" MODIFIED="1605004790353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgoProgramming$N_Queen_DP__1_.coverage" NAME="N-Queen-DP (1) Coverage Results" MODIFIED="1610363127473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$.coverage" NAME="凯撒爆破 Coverage Results" MODIFIED="1604996749195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$DP_NQUEEN_NEW.coverage" NAME="DP_NQUEEN_NEW Coverage Results" MODIFIED="1610352029097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1605005694100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$43__.coverage" NAME="43. 字符串相乘 Coverage Results" MODIFIED="1618989259378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Medium" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$5477__.coverage" NAME="5477. 排布二进制网格的最少交换次数 Coverage Results" MODIFIED="1596339642929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/context/weekly-200" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1605016798885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$longzhu.coverage" NAME="longzhu Coverage Results" MODIFIED="1605024289142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$easy_has.coverage" NAME="easy_has Coverage Results" MODIFIED="1605021586758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$rarrack.coverage" NAME="rarrack Coverage Results" MODIFIED="1604802329523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoProgramming$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1620577739478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
   </component>
 </project>
